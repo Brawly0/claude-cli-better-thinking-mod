@@ -1,0 +1,6 @@
+{
+  "name": "claude-cli-better-thinking-mod",
+  "description": "live-work: an animated, aura-coloured view of what Claude Code is working on.",
+  "owner": { "name": "Brawly0" },
+  "plugins": [{ "name": "live-work", "source": "./" }]
+}
